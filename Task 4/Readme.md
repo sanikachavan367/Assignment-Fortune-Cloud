@@ -98,6 +98,21 @@ Common Cloud Security Risks:
 5. Insider threats
 6. Lack of encryption
 
+#  Section 4:  Offensive vs Defensive Security 
+| Aspect            | Offensive Security                                         | Defensive Security                                         |
+| ----------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| Purpose           | Find and exploit weaknesses before attackers do            | Protect systems from attacks and reduce risk               |
+| Perspective       | Thinks like an attacker                                    | Thinks like a defender                                     |
+| Main Goal         | Discover vulnerabilities                                   | Prevent, detect, and respond to threats                    |
+| Common Activities | Penetration testing, red teaming, vulnerability assessment | Monitoring, incident response, threat detection, hardening |
+| Approach          | Simulated attacks                                          | Continuous protection and monitoring                       |
+| Team Name         | Red Team                                                   | Blue Team                                                  |
+| Key Tools         | Metasploit, Burp Suite, Nmap                               | SIEM, firewalls, EDR, IDS/IPS                              |
+| Focus Area        | Weakness identification                                    | Security operations and resilience                         |
+| Frequency         | Usually periodic testing                                   | Ongoing daily operations                                   |
+| Output            | Security findings and exploit paths                        | Alerts, mitigations, and recovery actions                  |
+
+
 # Conclusion
 Firewalls, IDS/IPS, SIEM, and cloud security technologies are essential components of modern cybersecurity architecture. Together, they provide layered protection, real-time threat detection, centralized monitoring, and secure cloud operations.
 

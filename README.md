@@ -1,40 +1,3 @@
-# Cyber Security - Fortune Cloud
-___
-**Student Name:** Sanika Ashok Chavan
-**Mentor Name:** Vaibhav Barde Sir
-**Target:** Kali Linux, Metasploitable
-___
-## Objective
-Cybersecurity practical assignment covering ethical hacking, reconnaissance, vulnerability assessment, password security, malware analysis, system and cloud security, web application testing, session analysis, and final security auditing using real-world cybersecurity tools and techniques.
-
-## Project Tasks Status
-
-| Task | Topic | Status |
-|---|---|---|
-| Task 1 | Footprinting, Reconnaissance & Scanning | ✅ Done |
-| Task 2 | Vulnerability Assessment & Web App Testing | ✅ Done |
-| Task 3 | Password Security, Sniffing & Session Analysis | ✅ Done |
-| Task 4 | Malware, System Security & Cloud Security | ✅ Done |
-| Task 5 | Final Security Audit & Penetration Testing Report | ✅ Done |
-
-## Tools Used- All Task:
-1. WHOIS
-2. nslookup
-3. theHarvester
-4. recon-ng
-5. Nmap
-6. Nikto
-7. DVWA
-8. Wireshark
-9. Hydra
-10. curl
-
-
-
-
-
-
-
 
 # Cyber Security & Ethical Hacking — Fortune Cloud
 
@@ -42,11 +5,9 @@ Cybersecurity practical assignment covering ethical hacking, reconnaissance, vul
 
 | Field | Details |
 |---|---|
-| Student | Haaris |
+| Student |Sanika Ashok Chavan|
 | Trainer | Vaibhav Barde |
-| Lab Environment | Kali Linux + Metasploitable 2 on VMware |
-| Target IP | 192.168.118.129 |
-| Date | May 2026 |
+| Lab Environment | Kali Linux + Metasploitable|
 
 ---
 
@@ -76,14 +37,12 @@ The tasks include reconnaissance, vulnerability assessment, web application secu
 - nslookup
 - theHarvester
 - recon-ng
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
+- Nmap
 - DVWA
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+- Nikto
+- Wireshark
+- Hydra
 - curl
-- iptables
 
 ---
 

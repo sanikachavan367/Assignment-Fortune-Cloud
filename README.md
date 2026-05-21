@@ -31,7 +31,7 @@ The tasks include reconnaissance, vulnerability assessment, web application secu
 
 ---
 
-# Tools Used Across All Tasks
+# Tools Used - All Tasks
 
 - WHOIS
 - nslookup

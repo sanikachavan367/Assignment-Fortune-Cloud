@@ -3,10 +3,10 @@ Objective
 The objective of this task is to perform a vulnerability assessment and manual web application security testing on a controlled lab environment using Metasploitable 2. The goal is to identify common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), misconfigurations, and missing security headers using industry-standard tools.
 
 Target Environment:
-| Target IP | 192.168.61.142|  
-| Web Application| DVWA (Damn Vulnerable Web Application) |
-| Platform | Kali Linux (VMware Environment) |
-| Testing Type| Authorized Lab-based Security Assessment |
+* Target IP: 192.168.61.142
+* Web Application: DVWA (Damn Vulnerable Web Application)
+* Platform: Kali Linux (VMware Environment)
+* Testing Type: Authorized Lab-based Security Assessment
 
 Tools Used:
 | Tool        | Purpose                                                              |

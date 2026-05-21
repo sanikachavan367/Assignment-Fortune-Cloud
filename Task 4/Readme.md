@@ -98,5 +98,7 @@ Common Cloud Security Risks:
 5. Insider threats
 6. Lack of encryption
 
+# Conclusion
+Firewalls, IDS/IPS, SIEM, and cloud security technologies are essential components of modern cybersecurity architecture. Together, they provide layered protection, real-time threat detection, centralized monitoring, and secure cloud operations.
 
 
